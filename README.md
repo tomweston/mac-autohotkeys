@@ -11,3 +11,5 @@ Installation
 - Install [AutoHotkey](https://www.autohotkey.com/) 
 - Run the `mac-autohotkeys.ahk` file
 - Put the `mac-autohotkeys.ahk` file or a shortcut to the file in your Autostart folder to run it automatically on startup.
+
+`C:\Users\<USERNAME>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
